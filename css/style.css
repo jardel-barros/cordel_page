@@ -96,13 +96,13 @@ section.imagen > p
 
 section#img01
 {
-    background-image: url('img/background001.jpg');
+    background-image: url('../img/background001.jpg');
     background-position: right center; /* centralizando a imagen a Direita*/
 }
 
 section#img02
 {
-    background-image: url('img/background002.jpg');
+    background-image: url('../img/background002.jpg');
 }
 
 footer /*rodape*/
